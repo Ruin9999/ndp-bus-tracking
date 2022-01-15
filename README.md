@@ -9,4 +9,7 @@
 
 <h2 style="margin-bottom:10px;" align="center">Images</h2>
 
-![](https://alighting.jfif)  |  ![](https://...boarding.jfif)
+<p float="left">
+    <img width="49%" src="alighting.jfif">
+    <img width="49%" src="boarding.jfif">
+</p>
